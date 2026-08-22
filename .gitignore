@@ -6,3 +6,11 @@ __pycache__/
 .env
 .DS_Store
 *.zip
+*.py[cod]
+*.so
+build/
+dist/
+*.egg-info/
+.vscode/
+.ruff_cache/
+.ipynb_checkpoints/
