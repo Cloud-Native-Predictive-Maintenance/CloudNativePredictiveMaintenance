@@ -1,6 +1,6 @@
 Cloud-Native Predictive Maintenance Platform
 
-Overview
+Overview:
 
 A cloud-native machine learning platform that predicts industrial machine failures before they occur using sensor data. The system combines XGBoost-based failure prediction, anomaly detection, time-series analysis, AWS cloud services, and a real-time monitoring dashboard to help reduce unplanned downtime and maintenance costs.
 
